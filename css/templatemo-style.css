@@ -34,6 +34,7 @@ p {
   -ms-transform: translateX(-50%);
   -o-transform: translateX(-50%);
   transform: translateX(-50%);
+  background-color: gray;
 }
 
 .section-heading {
@@ -414,7 +415,7 @@ header {
 }
 
 .Modern-Slider .item-1 .image {
-  background-image: url(../img/slide_1.jpg);
+  background-image: url(../img/background.jpg);
 }
 
 .Modern-Slider .item-2 .image {
