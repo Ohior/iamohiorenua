@@ -1,12 +1,4 @@
-[
-  {"title":"parker rocket","url":""},
-  {"title":"","url":""},
-  {"title":"","url":""},
-  {"title":"","url":""},
-  {"title":"","url":""},
-  {"title":"","url":""},
-  {"title":"","url":""},
-  {"title":"","url":""},
-  {"title":"","url":""},
-  {"title":"","url":""}
-]
+{
+  "title": "parker rocket",
+  "url": ""
+}
